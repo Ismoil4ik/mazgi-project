@@ -1,0 +1,47 @@
+
+
+.bir_h{
+    background-color: rgb(255, 50, 91);
+    font-size: 29px;
+    
+}
+.ikki-h{
+    display: flex;
+    justify-content: space-between;
+    margin: auto 150px;
+background-color: yellow;
+    margin: auto 150px;
+}
+.waiper{
+    background-color: yellow;
+    border: 2px;
+    border-color: blue;
+     padding: 20px;
+     width: 1350px;
+     height: 900px;
+}
+.ye{
+    color: yellow;
+}
+.kartochka{
+    background-color: black;
+    color: white;
+    width: 300px;
+    
+}
+.p_k{
+    padding: 20px;
+}
+.m_kartochka{
+    display: flex;
+    gap: 75px;
+    flex-wrap: wrap;
+    margin: auto 150px ;
+    
+}
+.img{
+    width: 300px;
+}
+.title{
+    color: white;
+}
